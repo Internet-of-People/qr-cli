@@ -1,0 +1,9 @@
+[package]
+name = "qr"
+version = "1.0.0"
+authors = ["deusz <lovaszoltanr@gmail.com>"]
+
+[dependencies]
+qrcode = "0.4"
+image = "0.13.0"
+ansi_term = "0.9"
